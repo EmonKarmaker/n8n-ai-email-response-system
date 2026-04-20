@@ -93,7 +93,7 @@ Update the **Sheet ID** in all Google Sheets nodes to match your sheet.
 ---
 
 ## 🔄 Workflow Diagram
-
+![Workflow Overview](screenshots/workflow_overview.png)
 ```
 Gmail Trigger
      ↓
